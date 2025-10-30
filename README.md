@@ -1,1 +1,2 @@
-2025-07-08 01:45:25.032384265 +0800 CST m=+1479833.807535062 : 999
+ForgePay — Gasless Payment & Subscription Layer
+ A payment protocol that enables gasless recurring payments, credit-based metering, and on-chain receipts.
